@@ -34,7 +34,7 @@ In the Office 365 Central Administration center:
 
     ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest03.png)
 
-## What is the differences in Permissions and Sharing
+## What are the differences in Permissions and Sharing
 
 At basic level Office 365 Groups have two permissions settings:
 
