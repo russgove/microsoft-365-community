@@ -48,6 +48,8 @@ SharePoint permission groups, on the other hand, provide more granularity:
 3. Site Members | Edit permissions to the site, this allows the users to also modify lists
 4. Site Visitors | Read only permissions to the site
 
+Also in SharePoint, new groups can be created that allow specific permissions to each indivdual list and library.
+
 Differences when in use
 
 * It is easy to see who is a guest in Teams: all guests will have (Guest) appended to their user name
