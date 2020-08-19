@@ -54,6 +54,7 @@ Differences when in use
 * In SharePoint you have to check the email address to verify a user is external (a guest)
 * In Teams, guests can't be an owner of the Team
 * In SharePoint, a guest can be promoted to Owner of the site
+* In Teams, only owners can add members to the Team. In SharePoint, It can be configured ao that members can add other members.
 * In SharePoint (Groups) you can't add an external guest as a member of the O365 Group, this has to be done through the Outlook Web App (OWA), but you can share the SharePoint site only
 
     ![guest](media/managing-external-guest-in-SharePoint-vs-Teams/guest05.png)
