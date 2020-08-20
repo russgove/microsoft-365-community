@@ -87,7 +87,7 @@ Most organizations already have an on-premises Active Directory, which is synchr
 
 However, it's entirely possible to create Microsoft 365 security groups directly in the admin center, and add those to your SharePoint site as well!
 
-Active Directory groups are different from SharePoint groups. When you create a SharePoint group, it will only be available within the site where it's been created.
+Active Directory groups are different from SharePoint groups. When you create a SharePoint group, it will only be available within the site where it's been created, and the owners of the group can add and remove members using the sharepoint user interface. When you add an Active Directory group membership is maintained by the by the owners of the Active Directory group which is typically an IT responsibility.
 
 >_Best Practice: Add security groups to your SharePoint groups for easy management. Although it's possible to add users individually to sites, it will be harder to manage down the line._
 
