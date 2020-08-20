@@ -31,7 +31,7 @@ This scenario is similar to the inner and outer loop ideas presented by Microsof
 
 When we feel pour document is "ready" or has reached a point where we would like some feedback - usually from "trusted" co-workers - we share the document where it sits by creating a sharing link and sending it to them.
 
-Once we've collaborated on the document with the small circle, we may decide it is ready for our larger work team to review and give us feedback. At this point, we may move the document from our OneDrive into the Team Site (SharePoint) or Files tab (Microsoft Teams) where out team has access and we share a link again. This is the beginning of the shift from the inner loop to the outer loop.
+Once we've collaborated on the document with the small circle, we may decide it is ready for our larger work team to review and give us feedback. At this point, we may move the document from our OneDrive into the Team Site (SharePoint) or Files tab (Microsoft Teams) where our team has access and we share a link again. This is the beginning of the shift from the inner loop to the outer loop.
 
 If our ideas in the document are truly useful or brilliant, we may end up publishing the content on our Intranet as part of our department's Communication Site (SharePoint) or on Yammer.
 
